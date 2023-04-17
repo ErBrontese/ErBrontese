@@ -1,6 +1,6 @@
 ### 🧑🏻‍💻Hi, I'm Matteo Batticani
 
-<!--
+
 I am a fullstack developer who creates digital products using many modern tools, I have a degree in Computer Science from the University of Catania, I am passionate about using technology to solve complex problems and improve people's lives.
 
 Throughout my academic and professional experiences, I have developed a solid foundation in programming concepts, software development methodologies, and best practices for building high-quality, scalable applications.
