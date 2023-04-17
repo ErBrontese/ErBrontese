@@ -11,4 +11,14 @@ In addition to my technical skills, I am a strong communicator and collaborator.
 Tools used:
 
 
-![CSS](https://github.com/ErBrontese/Image/blob/main/Pronte/html(1).png?raw=true)
+![HTML](https://github.com/ErBrontese/Image/blob/main/Pronte/html(1).png?raw=true)
+![CSS](https://github.com/ErBrontese/Image/blob/main/Pronte/css(1).png?raw=true)
+![JS](https://github.com/ErBrontese/Image/blob/main/Pronte/js(1).png?raw=true)
+![PHP](https://github.com/ErBrontese/Image/blob/main/Pronte/php(1).png?raw=true)
+![LARAVEL](https://github.com/ErBrontese/Image/blob/main/Pronte/Laravel(1).png?raw=true)
+![NODEJS](https://github.com/ErBrontese/Image/blob/main/Pronte/nodeJS(1).png?raw=true)
+![SPRINGBOOT](https://github.com/ErBrontese/Image/blob/main/Pronte/springbot(1).png?raw=true)
+![MYSQL](https://github.com/ErBrontese/Image/blob/main/Pronte/mysql(1).png?raw=true)
+![MONGODB](https://github.com/ErBrontese/Image/blob/main/Pronte/mongo(1).png?raw=true)
+
+
