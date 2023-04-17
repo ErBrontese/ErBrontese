@@ -11,4 +11,4 @@ In addition to my technical skills, I am a strong communicator and collaborator.
 Tools used:
 
 
-![CSS](https://thumbs.dreamstime.com/b/html-css-js-icon-set-web-development-logo-icon-set-html-css-javascript-programming-symbol-html-css-js-icon-set-web-255121861.jpg)
+![CSS](https://cdn.iconscout.com/icon/free/png-256/css3-8-1175200.png)
